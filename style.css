@@ -1,0 +1,10 @@
+
+.games-section, .form-section {
+  background-color: #525252;
+}
+
+button.coral {
+  color: #fff;
+  background-color: coral;
+  border-color: lightcoral;
+}
